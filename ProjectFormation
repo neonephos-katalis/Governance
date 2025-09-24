@@ -1,0 +1,50 @@
+Katalis
+5-23-2025
+Draft Project Governance Documents
+
+
+Thank you for your interest in hosting a project with Linux Foundation Europe.  We have prepared draft governance documents for your review. 
+
+Technical Charter Draft
+Contribution Agreement Draft
+
+Please review these materials and let us know if you have any questions. To give you some background on these materials:
+
+Technical Project Charter Template
+
+A technical charter is created for all new projects to define both the project operations and the IP policy.  We have proposed technical oversight for the project that falls to a “Technical Steering Committee” made up of the project’s committers. At a later date the TSC is free to evolve how membership on the TSC is determined to accommodate project growth and the evolution of its governance. 
+
+Project Contribution Agreement
+
+In order to enable collaboration across organizations, Linux Foundation Europe holds project names, logos and key accounts (e.g., domain names, GitHub accounts, etc.) for the benefit of the project community.  The way we do this is through the execution of the Project Contribution Agreement with the project’s founding organization or, in some cases, individual.  While companies transferring project names and logos to us can continue use those names and logos in accordance with our trademark usage guidelines (please see Linux Foundation Europe policies here), project names should not be used as part of a commercial product name.  If you are currently using the name of the project as part of a product name, please let us know.
+
+While the Project Contribution Agreement will ask about any trademark registrations, please note your organization may have common law trademark rights in a project name even if a registration has not been filed. Therefore, unless the project name has never been used publicly, we have Project Contribution Agreements signed even if there are no trademark registrations.
+
+Next Steps
+
+Please review our FAQ on Project formation.
+
+In terms of moving forward, the next steps are as follows:
+
+Come to agreement on the finalized language for the Technical Charter.  
+Transfer ownership of any related assets to be neutrally held by the Project, if not already held by a Linux Foundation entity:
+Add ‘lf-europe’ as an owner of the GitHub org
+Transfer domain(s) at https://jira.linuxfoundation.org/plugins/servlet/theme/kb/view/28485232
+Send .svg of existing logo to formation@linuxfoundation.org
+If you have at least 5 organizations supporting the project, we will reach out to you to prepare an announcement concerning the project launching at the LF
+Onboard into the LFX platform to take advantage of LFX platform tools – we will reach out to you on this.
+Add the following as a website footer in tandem with announcement:
+
+Copyright Linux Foundation Europe
+For web site terms of use, trademark policy and other project policies please see https://linuxfoundation.eu/en/policies. 
+
+Should you have any questions, please do not hesitate to contact us.  If you’d like to set up time to discuss these documents in further detail, please let us know a few suitable times.
+
+Project Formation Contacts
+
+If you have any questions about the process of bringing your project to the LF, please reach out to Scott Nicholas, VP of Project Formation, and Todd Benzies, Senior Director of Project Formation, at formation@linuxfoundation.org. 
+
+Thank you!
+
+
+The Project Formation Team of the Linux Foundation
