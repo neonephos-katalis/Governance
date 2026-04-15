@@ -4,15 +4,25 @@ This repository defines the **governance framework** for the **NeoNephos Katalis
 
 ---
 
+## Funding and support
+
+This open source project is part of activities carried out within the Important Project of Common European Interest on Next Generation Cloud Infrastructure and Services (IPCEI-CIS), an EU initiative to build a sovereign, interoperable and energy-efficient cloud‑to‑edge infrastructure in Europe.
+
+<p align="center">
+  <img src="assets/eu-funded-nextgenerationeu.png" alt="EU funding logo" width="300" />
+</p>
+
+---
+
 ## Purpose
 
 The goal of this repository is to ensure that all contributors, members, and stakeholders share a **transparent and common understanding** of how decisions are made, how work is organized, and how the project evolves.
 
 Governance provides:
 
-- **Clarity** on roles, responsibilities, and decision-making processes  
-- **Fairness** through open participation and consensus-driven approaches  
-- **Accountability** by documenting policies, rules, and procedures  
+- **Clarity** on roles, responsibilities, and decision-making processes
+- **Fairness** through open participation and consensus-driven approaches
+- **Accountability** by documenting policies, rules, and procedures
 - **Alignment** with European priorities (IPCEI-CIS, Gaia-X, EU research programs)
 
 ---
@@ -21,39 +31,39 @@ Governance provides:
 
 The project follows an **open governance model** inspired by Linux Foundation best practices.
 
-- **Steering Committee (SC)**  
-  - Responsible for strategic direction, alignment with EU initiatives, and coordination with other projects (e.g., Gardener, OCM, ApeiroRA).  
+- **Steering Committee (SC)**
+  - Responsible for strategic direction, alignment with EU initiatives, and coordination with other projects (e.g., Gardener, OCM, ApeiroRA).
   - Membership: Representatives from participating organizations.
 
-- **Technical Steering Committee (TSC)**  
-  - Oversees technical decisions, architecture specifications, and interoperability efforts.  
+- **Technical Steering Committee (TSC)**
+  - Oversees technical decisions, architecture specifications, and interoperability efforts.
   - Membership: Maintainers elected by contributors.
 
-- **Working Groups (WGs)**  
-  - Topic-specific groups (e.g., Security, Cloud–Edge Federation, API Standardization).  
+- **Working Groups (WGs)**
+  - Topic-specific groups (e.g., Security, Cloud–Edge Federation, API Standardization).
   - Open to all contributors.
 
-- **Community**  
-  - Contributions are open via pull requests, issues, and discussions.  
+- **Community**
+  - Contributions are open via pull requests, issues, and discussions.
   - All technical contributions require **two maintainer approvals** before merging.
 
 ---
 
 ## Principles
 
-1. **Openness** – Participation is open to all stakeholders.  
-2. **Transparency** – All decisions are documented and accessible.  
-3. **Meritocracy** – Influence is earned through contribution.  
-4. **Neutrality** – Governance is vendor-neutral, focused on interoperability.  
-5. **Security by Design** – Governance ensures compliance with EU standards (e.g., GDPR, NIS2).  
+1. **Openness** – Participation is open to all stakeholders.
+2. **Transparency** – All decisions are documented and accessible.
+3. **Meritocracy** – Influence is earned through contribution.
+4. **Neutrality** – Governance is vendor-neutral, focused on interoperability.
+5. **Security by Design** – Governance ensures compliance with EU standards (e.g., GDPR, NIS2).
 
 ---
 
 ## Decision Making
 
-- **Consensus first** – seek agreement in working groups.  
-- **Lazy consensus** – silence means consent after 5 business days.  
-- **Escalation** – unresolved issues can be raised to the TSC, then the SC.  
+- **Consensus first** – seek agreement in working groups.
+- **Lazy consensus** – silence means consent after 5 business days.
+- **Escalation** – unresolved issues can be raised to the TSC, then the SC.
 
 ---
 
@@ -61,18 +71,18 @@ The project follows an **open governance model** inspired by Linux Foundation be
 
 This project contributes to the **Important Project of Common European Interest – Cloud Infrastructure and Services (IPCEI-CIS)** by:
 
-- Promoting **open standards** and **API-first interoperability**  
-- Building a **secure, cloud–edge continuum**  
-- Supporting **sovereign European digital infrastructure**  
+- Promoting **open standards** and **API-first interoperability**
+- Building a **secure, cloud–edge continuum**
+- Supporting **sovereign European digital infrastructure**
 
 ---
 
 ## How to Engage
 
-- Join discussions in GitHub **Issues** & **Discussions**  
-- Propose changes via **Pull Requests**  
-- Participate in **Working Groups**  
-- Review [Architecture Specs](../Architecture_Specs)  
+- Join discussions in GitHub **Issues** & **Discussions**
+- Propose changes via **Pull Requests**
+- Participate in **Working Groups**
+- Review [Architecture Specs](../Architecture_Specs)
 
 ---
 
